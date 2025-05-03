@@ -1,5 +1,6 @@
 # 内容：其他需要特别代理的ACGN平台
-# 数量：2条
+# 数量：3条
 DOMAIN-SUFFIX,manhuagui.com
+DOMAIN-SUFFIX,mhgui.com
 # 这是 manhuagui.com 的数据服务器域名
 DOMAIN-SUFFIX,hamreus.com
